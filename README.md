@@ -21,7 +21,7 @@ I bring a unique blend of **humanities perspective** and **technical experience*
 **People fascinate me**☺️ I thrive on sharing ideas, and exploring different perspectives.  
 I'm always eager to engage in discussions or collaborative projects if they're related to IT technologies.  
 
-**Let's create something amazing together!😊** </div>
+**Let's create something fascinating together!😊** </div>
 
   
 <br>
@@ -62,7 +62,7 @@ I'm always eager to engage in discussions or collaborative projects if they're r
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,github,java,linux,mysql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,docker,github,java,linux,mysql,elasticsearch&theme=light&perline=14" />
   </a>
 </p><br>
 <br>
