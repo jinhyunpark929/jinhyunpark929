@@ -40,9 +40,9 @@ I'm always eager to engage in discussions or collaborative projects if they're r
 
 | Development Period | Project Name | Team Size |
 |:--------:|:--------:|:--------:|
-|  Data 1  |  Data 2  |  👨‍👩‍👧‍👦  |
-|  Data 1  |  Data 2  |  👨‍👩‍👧‍👦  |
-|  Data 1  |  Data 2  |  👨‍👩‍👧‍👦  |
+|  25.01.09 - 25.01.14  |  Project 1  |  👨‍👩‍👧‍👦  |
+|  25.01.15 - 25.01.17  |  Project 2  |  👨‍👩‍👧‍👦  |
+|  25.01.21 - 25.01.22  |  Project 3  |  👨‍👩‍👧‍👦  |
 
 </div><br>
 
@@ -62,7 +62,7 @@ I'm always eager to engage in discussions or collaborative projects if they're r
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,github,java,linux,mysql,elasticsearch&theme=light&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,docker,java,linux,mysql,elasticsearch&theme=light&perline=14" />
   </a>
 </p><br>
 <br>
