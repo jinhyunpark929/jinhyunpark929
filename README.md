@@ -15,13 +15,14 @@
 
 Hey there!👋 I'm a **History graduate** who's been working in **IT**!🖥️    
   
-After starting my career in the IT industry with roles in **planning** and **project management**, I'm now ready to explore new career paths🪧  
+After starting my career in the IT industry with roles in **planning** and **project management**, 
+now I'm ready to explore new career paths🧭  
 I bring a unique blend of **humanities perspective** and **technical experience**, along with creative problem-solving skills.  
 
 **People fascinate me**☺️ I thrive on sharing ideas, and exploring different perspectives.  
 I'm always eager to engage in discussions or collaborative projects if they're related to IT technologies.  
 
-**Let's create something fascinating together!😊** </div>
+**Let's create something amazing together!😊** </div>
 
   
 <br>
