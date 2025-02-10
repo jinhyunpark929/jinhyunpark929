@@ -54,18 +54,13 @@ I'm always eager to engage in discussions or collaborative projects if they're r
 
 <br>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I know😎</h2></summary>
-  </ul>
-</div> 
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,java,linux,mysql,elasticsearch&theme=light&perline=14" />
-  </a>
-</p><br>
+<div id="user-content-toc"> <ul align="center"> <summary><h2 style="display: inline-block">Now I am learning😎</h2></summary> </ul> </div>
+
+<p align="center"> <strong> Frontend </strong>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=light&perline=14" /> </a> </p>
+
+<p align="center"> <strong> Backend </strong>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,docker,java,linux,mysql,elasticsearch&theme=light&perline=14" /> </a> </p>
 <br>
 
 ---
