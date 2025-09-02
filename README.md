@@ -7,29 +7,24 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Introduction🎙️</h2></summary>
-  </ul>
 
-<div align="center"> 
+**Hey there!👋 I'm Jamie** — a curious mind who started out in the **humanities**,  
+but found my true passion in the **IT world**. 🖥️  
 
-Hey there!👋 I'm a **History graduate** who's been working in **IT**!🖥️    
-  
-After starting my career in the IT industry with roles in **planning** and **project management**, 
-now I'm ready to explore new career paths🧭  
-I bring a unique blend of **humanities perspective** and **technical experience**, along with creative problem-solving skills.  
+I’ve worked in **planning** and **project management**, and along the way discovered how much I love **solving problems**.  
+Now, I’m diving deeper into **Cloud Solutions** and **DevOps**, exploring how technology can directly empower people and businesses. ☁️⚙️  
 
-**People fascinate me**☺️ I thrive on sharing ideas, and exploring different perspectives.  
-I'm always eager to engage in discussions or collaborative projects if they're related to IT technologies.  
+### ✨ What drives me
+- Blending a **human-centered perspective** with **technical know-how**  
+- Tackling challenges with creativity and collaboration  
+- Building solutions that make a real impact  
 
-**Let's create something amazing together!😊** </div>
+I’m always open to learning, sharing ideas, and joining exciting projects related to IT technologies.  
+**Let’s create something amazing together! 🚀**
 
-  
-<br>
+📫 **Connect with me on [LinkedIn](https://www.linkedin.com/in/jinhyunpark929)**  
 
 ---
-
-<br>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -47,37 +42,3 @@ I'm always eager to engage in discussions or collaborative projects if they're r
 
 </div><br>
 
-<br>
-
----
-
-
-<br>
-
-<div id="user-content-toc"> <ul align="center"> <summary><h2 style="display: inline-block">Now I am learning😎</h2></summary> </ul> </div>
-
-<p align="center"> <strong> Frontend </strong>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=light&perline=14" /> </a> </p>
-
-<p align="center"> <strong> Backend </strong>
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,docker,java,linux,mysql,elasticsearch&theme=light&perline=14" /> </a> </p>
-<br>
-
----
-
-<br>
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect with me🤗</h2></summary>
-  </ul>
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jinhyunpark929">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://blog.naver.com/inthesameocean">
-    <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Blog" />
-  </a>
-</p>
