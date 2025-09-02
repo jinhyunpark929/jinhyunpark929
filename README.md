@@ -1,7 +1,4 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-![Banner_Final](https://github.com/user-attachments/assets/de01ebfc-c348-4d08-a954-8cd4f7b4ee51)
+![Banner_Final](./Jamie_README.png)
 
 <!--**jinhyunpark929/jinhyunpark929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,25 +21,35 @@ I’m always open to learning, sharing ideas, and joining exciting projects rela
 
 📫 **Connect with me on [LinkedIn](https://www.linkedin.com/in/jinhyunpark929)**  
 
+<br>
+
 ---
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">My Portfolio💼</h2></summary>
-  </ul> 
+## 💼 Portfolio
 
-<div align="center">
+### 🚀 Main Projects
+| Period | Project | Team Size | Link |
+|:------:|:-------:|:---------:|:----:|
+| 25.02.01 - 25.02.16 | A Deep Dive into Redis | 4 | [GitHub] |
+| 25.04.01 - 25.04.16 | The Era of DevOps: Jenkins vs GitHub Actions | 1 | [GitHub](https://github.com/jinhyunpark929/The-Era-of-DevOps-Jenkins-vs-GitHub-Actions.git) |
+| 25.04.19 - 25.04.11 | Podopicker: High Availability in Ticketing Systems | 5 | [GitHub](https://github.com/JaeBaeWon/JaeBaeWon.git)|
 
-| Development Period | Project Name | Team Size |
-|:--------:|:--------:|:--------:|
-|  25.01.09 - 25.01.14  |  Project 1  |  👨‍👩‍👧‍👦  |
-|  25.01.15 - 25.01.17  |  Project 2  |  👨‍👩‍👧‍👦  |
-|  25.01.21 - 25.01.22  |  Project 3  |  👨‍👩‍👧‍👦  |
+### 🔎 Sub Projects
+| Period | Project | Team Size | Link |
+|:------:|:-------:|:---------:|:----:|
+| 25.01.10 - 25.01.12 | RDBMS_Going Home | 4 | [GitHub](https://github.com/Going-Home-by-Train/Train_Reservation.git) |
+| 25.01.21 - 25.01.22 | C-Rader: Building a MySQL to ELK Data Pipeline | 4 | [GitHub](https://github.com/4P-Ns/C-Radar.git) |
+| 25.01.24 - 25.01.25 | Wooritto: Kibana Dashboards for Card Transactions | 4 | [GitHub](https://github.com/4P-Ns/Wooritto.git) |
+| 25.03.19 - 25.03.30 | Docker & Kubernetes Fundamentals | 1 | [GitHub](https://github.com/jinhyunpark929/Docker-Kubernetes-Fundamentals.git) |
+| 25.05.29 - 25.06.04 | MCP AI Log Analysis Server | 1 | [GitHub](https://github.com/JaeBaeWon/podopicker_log_analysis_server.git) |
+| 25.06.01 - 25.06.07 | aws_securitycheck with Github Actions | 1 | [GitHub](https://github.com/JaeBaeWon/podopicker_aws_securitycheck.git) |
+| 25.08.27 - 25.08.28 | Chrome Anti-Phishing Extension | 1 | [GitHub](https://github.com/JaeBaeWon/podopicker_anti_phish_extension.git) |
 
-</div><br>
+<br>
 
-### 🛠 Tech Stacks
+---
+
+## 🛠 Tech Stacks
 
 **Dev**  
 ![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white)
