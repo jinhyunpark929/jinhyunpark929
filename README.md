@@ -32,7 +32,7 @@ I’m always open to learning, sharing ideas, and joining exciting projects rela
 |:------:|:-------:|:---------:|:----:|
 | 25.02.01 - 25.02.16 | A Deep Dive into Redis | 4 | [GitHub] |
 | 25.04.01 - 25.04.16 | The Era of DevOps: Jenkins vs GitHub Actions | 1 | [GitHub](https://github.com/jinhyunpark929/The-Era-of-DevOps-Jenkins-vs-GitHub-Actions.git) |
-| 25.04.19 - 25.04.11 | Podopicker: High Availability in Ticketing Systems | 5 | [GitHub](https://github.com/JaeBaeWon/JaeBaeWon.git)|
+| 25.04.19 - 25.06.11 | Podopicker: High Availability in Ticketing Systems | 5 | [GitHub](https://github.com/JaeBaeWon/JaeBaeWon.git)|
 
 ### 🔎 Sub Projects
 | Period | Project | Team Size | Link |
